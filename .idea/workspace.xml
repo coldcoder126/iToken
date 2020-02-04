@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce894c78-b7c7-4dfe-ae9e-dccaa11cf4c8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-admin/src/main/java/com/coldcoder/iToken/admin/AdminApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-admin/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-config/respo/itoken-admin-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-config/respo/itoken-eureka-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-config/respo/itoken-zipkin-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-config/respo/itoken-zuul-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-config/src/main/java/com/coldcoder/iToken/config/ConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-config/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-dependencies/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-eureka/src/main/java/com/coldcoder/iToken/eureka/EurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-eureka/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-zipkin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-zipkin/src/main/java/com/coldcoder/iToken/zipkin/ZipKinApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-zuul/src/main/java/com/coldcoder/iToken/ZuulApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itoken-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itoken-config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-config/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/itoken-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/itoken-config/target/" />
@@ -102,8 +77,8 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/itoken-config/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="378">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -378,12 +353,12 @@
       <workItem from="1580632992129" duration="2212000" />
       <workItem from="1580791712027" duration="62000" />
       <workItem from="1580791967370" duration="4343000" />
-      <workItem from="1580811758958" duration="204000" />
+      <workItem from="1580811758958" duration="427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22759000" />
+    <option name="totallyTimeSpent" value="22982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -692,8 +667,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itoken-config/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="378">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>

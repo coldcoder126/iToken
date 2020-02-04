@@ -10,10 +10,10 @@ spring:
       label: master
       server:
         git:
-          uri:
-          search-paths: respo
-          username:
-          password: 
+          uri: git@github.com:coldcoder126/iToken.git
+          search-paths: itoken-config/respo
+          username: 1348390090@qq.com
+          password: 521e7love
   zipkin:
     base-url: http://localhost:9411
 

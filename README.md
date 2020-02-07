@@ -1,29 +1,37 @@
 # iToken
 iToken 使用Spring Cloud 微服务
-##主要功能
-//TODO
-开发环境
+
+## 项目链接  
+- [itoken-admin](https://github.com/coldcoder126/itoken-admin.git)  
+- [itoken-config](https://github.com/coldcoder126/itoken-config.git)  
+- [itoken-dependencies](https://github.com/coldcoder126/itoken-dependencies.git)  
+- [itoken-eureka](https://github.com/coldcoder126/itoken-eureka.git)  
+- [itoken-zipkin](https://github.com/coldcoder126/itoken-zipkin.git)  
+- [itoken-zuul](https://github.com/coldcoder126/itoken-zuul.git)  
+
+
+
+### 主要功能
+// TODO
+### 开发环境
 
     操作系统：Windows 10 Enterprise
     开发工具：Intellij IDEA
     数据库：MySQL 5.7.22
     Java SDK：Oracle JDK 1.8.152
 
-#
-部署环境
+### 部署环境
 
     操作系统：Linux Ubuntu Server 16.04 X64
     虚拟化技术：VMware + Docker
 
-#
-项目管理工具
+### 项目管理工具
 
     项目构建：Maven + Nexus
     代码管理：Git + GitLab
     镜像管理：Docker Registry
 
-#
-后台主要技术栈
+### 后台主要技术栈
 
     核心框架：Spring Boot + Spring Cloud
     视图框架：Spring MVC
@@ -42,8 +50,7 @@ iToken 使用Spring Cloud 微服务
     分布式日志系统：ELK（ElasticSearch + Logstash + Kibana）
     反向代理负载均衡：Nginx
 
-#
-前端主要技术栈
+### 前端主要技术栈
 
     前端框架：Bootstrap + jQuery
     前端模板：AdminLTE

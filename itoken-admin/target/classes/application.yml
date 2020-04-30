@@ -2,6 +2,6 @@ spring:
   cloud:
     config:
       uri: http://localhost:8888
-      name: itoken-admin
+      name: iToken-admin
       label: master
       profile: dev

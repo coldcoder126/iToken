@@ -4,9 +4,9 @@ spring:
   boot:
     admin:
       client:
-        url: http://localhost:8084
+        url: http://47.92.2.46:8084
   zipkin:
-    base-url: http://localhost:9411
+    base-url: http://47.92.2.46:9411
 
 server:
   port: 8761
@@ -18,7 +18,7 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
     serviceUrl:
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://localhost:8761/eureka/
 
 management:
   endpoint:

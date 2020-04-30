@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: itoken-service-redis
+  redis:
+      lettuce:
+        pool:
+          max-active: 8
+          max-idle: 8
+          max-wait: -1ms
+          min-idle: 0
+      sentinel:
+        master: mymaster
+        nodes: 47.92.2.46:26379, 47.92.2.46:26380, 47.92.2.46:26381
+
+server:
+  port: 8503
+feign:
+  hystrix:
+    enable: true

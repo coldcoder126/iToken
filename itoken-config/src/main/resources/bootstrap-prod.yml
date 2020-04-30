@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: itoken-config
+  boot:
+    admin:
+      client:
+        url: http://47.92.2.46:8084
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/coldcoder126/itoken-config.git
+          search-paths: respo
+          username: 1348390090@qq.com
+          password: 521e7love
+  zipkin:
+    base-url: http://47.92.2.46:9411
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://47.92.2.46:8761/eureka/,http://47.92.2.46:8762/eureka/
+
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: health,info

@@ -1,0 +1,8 @@
+com\coldcoder\iToken\common\constants\HttpStatusConstants.class
+com\coldcoder\iToken\common\utils\MapperUtils$1.class
+com\coldcoder\iToken\common\utils\CookieUtils.class
+com\coldcoder\iToken\common\dto\BaseResult.class
+com\coldcoder\iToken\common\dto\BaseResult$Error.class
+com\coldcoder\iToken\common\dto\BaseResult$Cursor.class
+com\coldcoder\iToken\common\utils\MapperUtils.class
+com\coldcoder\iToken\common\hystrix\Fallback.class

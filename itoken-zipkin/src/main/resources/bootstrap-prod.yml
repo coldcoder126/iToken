@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://47.92.2.46:8888
+      name: itoken-zipkin
+      label: master
+      profile: prod

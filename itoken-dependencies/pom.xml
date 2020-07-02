@@ -32,7 +32,7 @@
         <springboot-mapper.version>2.0.2</springboot-mapper.version>
         <lombok.version>1.16.18</lombok.version>
         <!--Environment Begin-->
-        <mysql.version>5.1.46</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <springboot-pagehelper.version>1.2.13</springboot-pagehelper.version>
         <guava.version>28.1-jre</guava.version>
         <nokohtml.version>1.9.22</nokohtml.version>
